@@ -585,7 +585,7 @@
       .titulo.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
         h5 a) Manejo de la división por cero
-      p.mb-4 A continuación, se tiene una función que divide un número entre otro. Para ello, se pasa parámetros a la función para ambos números. Deseando asegurarnos de que la división nunca genere un error al dividir un número entre cero (0).
+      p.mb-4 A continuación, se tiene una función que divide un número entre otro. Para ello, se pasan parámetros a la función para ambos números. Deseando asegurarnos de que la división nunca genere un error al dividir un número entre cero (0).
       p.mb-4 Como medida preventiva, se ha escrito una condición que, si el divisor es cero, generará un error indicando que la división por cero no está permitida. En cualquier otro caso, se procederá con la división. Si se produce un error, el bloque catch lo gestionará y realizará las acciones necesarias (en este caso, registrar el error en la consola):            
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10

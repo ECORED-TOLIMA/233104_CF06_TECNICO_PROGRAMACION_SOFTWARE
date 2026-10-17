@@ -306,7 +306,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='')
       h5 Arquitectura del sistema
-    p Un #[i software] de tamaño pequeño se identifica de la composición de varios módulos o partes interconectados de alguna forma. La especificación de la arquitectura del sistema de información de los cuáles son estas partes; qué rol tienen dentro del #[i software] y la forma en que se organizan e interconectan.
+    p Un #[i software] de tamaño pequeño se identifica por la composición de varios módulos o partes interconectados de alguna forma. La especificación de la arquitectura del sistema de información de los cuáles son estas partes; qué rol tienen dentro del #[i software] y la forma en que se organizan e interconectan.
     p.mb-4 La información sobre la arquitectura debe incluir como mínimo:
     .row.justify-content-center.mb-4
       .col-lg-5.col-6.mb-4.mb-lg-0.d-none.d-lg-block
@@ -446,7 +446,7 @@ export default {
       {
         titulo: 'Procedimientos de instalación y prueba',
         texto:
-          'Debe organizarse de forma detallada el proceso para obtener, instalar y ejecutar el software, incluyendo los pasos necesarios para su correcta puesta en funcionamiento. También se deben describir las pruebas básicas de verificación, las condiciones del entorno, la plataforma requerida y los criterios que aseguran que el sistema opere de manera adecuada.',
+          'Debe organizarse de forma detallada el proceso para obtener, instalar y ejecutar el <em>software</em>, incluyendo los pasos necesarios para su correcta puesta en funcionamiento. También se deben describir las pruebas básicas de verificación, las condiciones del entorno, la plataforma requerida y los criterios que aseguran que el sistema opere de manera adecuada.',
         imagen: require('@/assets/curso/temas/tema2/img16.png'),
       },
     ],

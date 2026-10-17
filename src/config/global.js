@@ -236,7 +236,7 @@ export default {
     {
       termino: 'JavaScript',
       significado:
-        'es un lenguaje de programación interpretado, orientado a objetos y basado en prototipos, ampliamente utilizado para desarrollar aplicaciones web interactivas, tanto en el lado del cliente como del servidor.',
+        'es un lenguaje de programación interpretado, orientado a objetos y basado en prototipos, ampliamente utilizado para desarrollar aplicaciones <em>web</em> interactivas, tanto en el lado del cliente como del servidor.',
     },
     {
       termino: 'Lenguaje de programación',

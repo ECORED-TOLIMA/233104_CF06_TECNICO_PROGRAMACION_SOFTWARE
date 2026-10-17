@@ -463,13 +463,13 @@
               .col-lg-5.col-4
                 figure
                   img(src='@/assets/curso/temas/tema1/img20.svg', alt='')(style="width: 100%")
-            p.mb-0 En aplicaciones web y análisis de datos, los lenguajes interpretados ofrecen mayor productividad.
+            p.mb-0 En aplicaciones #[em web] y análisis de datos, los lenguajes interpretados ofrecen mayor productividad.
           .col-xl.col-lg-6.tarjeta.tarjeta-bg2.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure
                   img(src='@/assets/curso/temas/tema1/img21.svg', alt='')(style="width: 100%")
-            p.mb-0 El uso de entornos de ejecución como máquinas virtuales permite mejorar la portabilidad del software.
+            p.mb-0 El uso de entornos de ejecución como máquinas virtuales permite mejorar la portabilidad del #[em software].
           .col-xl.col-lg-6.tarjeta.tarjeta-bg7.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
