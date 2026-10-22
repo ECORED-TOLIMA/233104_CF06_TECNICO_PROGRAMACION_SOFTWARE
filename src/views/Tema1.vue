@@ -79,7 +79,7 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/nTPQX7n-Uwo" title="Conceptos básicos de programación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1401" height="788" src="https://www.youtube.com/embed/GJ_lWkqqIBc" title="Conceptos básicos de programación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
     p.mb-4(data-aos="fade-right") Ejemplos de tipos de datos que existen en lenguajes de programación son: 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12(data-aos="fade-right")
